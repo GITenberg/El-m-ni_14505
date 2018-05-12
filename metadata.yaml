@@ -1,0 +1,30 @@
+_repo: El-m-ni_14505
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Päivärinta, Pietari
+    alias: Paivarinta, Pietari
+    birthdate: 1827
+    deathdate: 1913
+    gutenberg_agent_id: '5555'
+    url: http://www.gutenberg.org/2009/agents/5555
+    wikipedia: http://fi.wikipedia.org/wiki/Pietari_P%C3%A4iv%C3%A4rinta
+description: ''
+gutenberg_issued: '2004-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14505'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Authors, Finnish -- 19th century -- Biography'
+- !lcsh 'Päivärinta, Pietari, 1827-1913'
+- !lcsh 'Autobiographies'
+title: Elämäni
+url: http://www.gutenberg.org/ebooks/14505
